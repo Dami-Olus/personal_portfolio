@@ -41,15 +41,23 @@ const About = () => {
       </motion.div>
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className="mt-4 text-secondary text-[14px] max-w-3xl leading-[30px]"
+        className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Who am I, you ask? Well, I'm a product manager by day, but don't let that fool you. By night, I put on my cape and transform into a software development vigilante, fighting bugs and pushing pixels until the wee hours of the morning.
-
-When I'm not saving the digital world, I can be found indulging in some of my favorite hobbies. I love cycling through the city streets, feeling the wind in my hair (and occasionally dodging the occasional distracted driver). I'm also an avid motorcyclist, tearing up the roads on my trusty two-wheeler.
-
-But I'm not all about speed and danger. I also enjoy traveling to new places, experiencing different cultures, and sampling exotic foods (I'll try anything once). And when I need some downtime, you'll find me curled up with a good book, lost in a world of words.
-
-So that's me in a nutshell. If you're looking for a dynamic, adventurous, and slightly nerdy product manager/software dev/superhero/vigilante, then look no further. Let's chat!
+        Who am I, you ask? Well, I'm a product manager by day, but don't let
+        that fool you. By night, I put on my cape and transform into a software
+        development vigilante, fighting bugs and pushing pixels until the wee
+        hours of the morning. When I'm not saving the digital world, I can be
+        found indulging in some of my favorite hobbies. I love cycling through
+        the city streets, feeling the wind in my hair (and occasionally dodging
+        the occasional distracted driver). I'm also an avid motorcyclist,
+        tearing up the roads on my trusty two-wheeler. But I'm not all about
+        speed and danger. I also enjoy traveling to new places, experiencing
+        different cultures, and sampling exotic foods (I'll try anything once).
+        And when I need some downtime, you'll find me curled up with a good
+        book, lost in a world of words. So that's me in a nutshell. If you're
+        looking for a dynamic, adventurous, and slightly nerdy product
+        manager/software dev/superhero/vigilante, then look no further. Let's
+        chat!
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (

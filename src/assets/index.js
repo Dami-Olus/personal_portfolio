@@ -1,4 +1,4 @@
-import logo from "./logo.png";
+import logo from "./do-logo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -20,6 +20,11 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import jira from "./tech/jira.png";
+import pendo from "./tech/pendo.png";
+import miro from "./tech/miro.png";
+import nextjs from "./tech/nextjs.png";
+import notion from "./tech/notion.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -59,4 +64,9 @@ export {
   carrent,
   jobit,
   tripguide,
+  miro,
+  pendo,
+  jira,
+  nextjs,
+  notion,
 };

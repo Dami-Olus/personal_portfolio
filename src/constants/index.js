@@ -23,6 +23,11 @@ import {
   jobit,
   tripguide,
   threejs,
+  pendo,
+  jira,
+  notion,
+  nextjs,
+  miro,
 } from "../assets";
 
 export const navLinks = [
@@ -42,6 +47,10 @@ export const navLinks = [
 
 const services = [
   {
+    title: "Product Management",
+    icon: creator,
+  },
+  {
     title: "Web Developer",
     icon: web,
   },
@@ -53,13 +62,30 @@ const services = [
     title: "Backend Developer",
     icon: backend,
   },
-  {
-    title: "Content Creator",
-    icon: creator,
-  },
+ 
 ];
 
 const technologies = [
+  {
+    name: "Pendo",
+    icon: pendo,
+  },
+  {
+    name: "Jira",
+    icon: jira,
+  },
+  {
+    name: "Miro",
+    icon: miro,
+  },
+  {
+    name: "Notion",
+    icon: notion,
+  },
+  {
+    name: "NextJs",
+    icon: nextjs,
+  },
   {
     name: "HTML 5",
     icon: html,
@@ -72,18 +98,18 @@ const technologies = [
     name: "JavaScript",
     icon: javascript,
   },
-  {
-    name: "TypeScript",
-    icon: typescript,
-  },
+  // {
+  //   name: "TypeScript",
+  //   icon: typescript,
+  // },
   {
     name: "React JS",
     icon: reactjs,
   },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
+  // {
+  //   name: "Redux Toolkit",
+  //   icon: redux,
+  // },
   {
     name: "Tailwind CSS",
     icon: tailwind,
@@ -92,10 +118,10 @@ const technologies = [
     name: "Node JS",
     icon: nodejs,
   },
-  {
-    name: "MongoDB",
-    icon: mongodb,
-  },
+  // {
+  //   name: "MongoDB",
+  //   icon: mongodb,
+  // },
   {
     name: "Three JS",
     icon: threejs,
@@ -108,10 +134,10 @@ const technologies = [
     name: "figma",
     icon: figma,
   },
-  {
-    name: "docker",
-    icon: docker,
-  },
+  // {
+  //   name: "docker",
+  //   icon: docker,
+  // },
 ];
 
 const experiences = [
