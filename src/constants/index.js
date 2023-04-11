@@ -89,18 +89,18 @@ const technologies = [
     name: "NextJs",
     icon: nextjs,
   },
-  {
-    name: "HTML 5",
-    icon: html,
-  },
+  // {
+  //   name: "HTML 5",
+  //   icon: html,
+  // },
   // {
   //   name: "CSS 3",
   //   icon: css,
   // },
-  {
-    name: "JavaScript",
-    icon: javascript,
-  },
+  // {
+  //   name: "JavaScript",
+  //   icon: javascript,
+  // },
   // {
   //   name: "TypeScript",
   //   icon: typescript,
