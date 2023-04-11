@@ -72,7 +72,7 @@ const Works = () => {
         <p className={styles.sectionSubText}>MY WORK</p>
         <h2 className={styles.sectionHeadText}>Projects.</h2>
       </motion.div>
-      {/* <div className="h-[400px] -mt-64 ml-16"><ComputersCanvas/></div> */}
+      <div className="h-[400px] -mt-64 ml-16"><ComputersCanvas/></div>
       
       <div className="w-full flex">
         <motion.div className="mt-3 text-secondary text-[17px max-x-3xl leading-[30px]">
