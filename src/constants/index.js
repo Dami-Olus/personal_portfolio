@@ -85,10 +85,10 @@ const technologies = [
   //   name: "Notion",
   //   icon: notion,
   // },
-  {
-    name: "NextJs",
-    icon: nextjs,
-  },
+  // {
+  //   name: "NextJs",
+  //   icon: nextjs,
+  // },
   // {
   //   name: "HTML 5",
   //   icon: html,
