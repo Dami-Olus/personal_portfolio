@@ -81,10 +81,10 @@ const technologies = [
   //   name: "Miro",
   //   icon: miro,
   // },
-  {
-    name: "Notion",
-    icon: notion,
-  },
+  // {
+  //   name: "Notion",
+  //   icon: notion,
+  // },
   {
     name: "NextJs",
     icon: nextjs,
@@ -113,26 +113,26 @@ const technologies = [
   //   name: "Redux Toolkit",
   //   icon: redux,
   // },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
-  },
-  {
-    name: "Node JS",
-    icon: nodejs,
-  },
+  // {
+  //   name: "Tailwind CSS",
+  //   icon: tailwind,
+  // },
+  // {
+  //   name: "Node JS",
+  //   icon: nodejs,
+  // },
   // {
   //   name: "MongoDB",
   //   icon: mongodb,
   // },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
-    name: "git",
-    icon: git,
-  },
+  // {
+  //   name: "Three JS",
+  //   icon: threejs,
+  // },
+  // {
+  //   name: "git",
+  //   icon: git,
+  // },
   {
     name: "figma",
     icon: figma,
