@@ -30,6 +30,9 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import gc from "./company/gc.jpeg";
+import se from "./company/se.jpeg";
+import karlytics from "./company/karlytics.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -69,4 +72,7 @@ export {
   jira,
   nextjs,
   notion,
+  gc,
+  se,
+  karlytics,
 };
